@@ -9,3 +9,52 @@ body{
 .dark-blue{
   color: #007ac1;
 }
+
+.text-align-center{
+  text-align: center;
+}
+
+.text-input{
+  font-size: 25px;
+}
+.btn{
+  background-color: #67daff;
+  height: 30px;
+  width: 90px;
+  font-size: 17px;
+  border: white 1px solid;
+  padding-top: 8px;
+  font-weight: bold;
+  color: black;
+}
+
+.btn:hover{
+  background: darkblue;
+  color: white;
+}
+
+.hr-rules{
+  border: 2px black solid;
+  width: 80%;
+}
+
+.btn-margin{
+  margin-left: 320px;
+  margin-top: 50px;
+}
+
+.queue-box{
+  margin-left: 200px;
+}
+
+.small-box{
+  border: 2px black solid;
+  height: 50px;
+  width: 70px;
+  background: #67daff;;
+}
+
+.small-box-text{
+  font-size: 20px;
+  text-align: center;
+}
